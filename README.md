@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi, I'm Alexey 👋
+In general worked with monolitic and microservice arthitectures.
 
-<!--
-**Shemich/Shemich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align = 'center'>
+ <a href="https://github-readme-stats.vercel.app/api?username=shemich&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=shemich&show_icons=true&count_private=true" /></a>
+<a href="https://github.com/shemich/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shemich&layout=compact" /></a>
+ </p>
 
-Here are some ideas to get you started:
+<p align='center'>
+  
+ <p align='center'>
+  📫  How to reach me: <a href='mailto:bazzzalex@gmail.com'>bazzzalex@gmail.com</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Key points
+*   I am easily trained, hardworking, able to quickly analyze technical information and creatively approach the solution of emerging problems. 
+*   I have a great desire to develop in the IT field. 
+*   I am ready to perform interesting tasks and master new technologies in a friendly team. 
+*   I try to constantly improve my knowledge and skills for future growth.
+*   I am fond of sound engineering, I play the guitar.
+
+## 🛠 Technical Stack
+*   Java 
+*   PostgreSQL, MongoDB
+*   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring Cloud Contract and so on...
+*   GitHub/GitLab
+
+### My opensource projects
+
+*   [Letov_Bot](https://github.com/Shemich/Letov_Bot) - Telegram bot giving a random poem by Igor Fedorovich "Yegor" Letov  
+*   [crazy-task-tracker-api](https://github.com/Shemich/crazy-task-tracker-api) - microservies 
