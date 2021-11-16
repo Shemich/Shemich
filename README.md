@@ -2,8 +2,8 @@
 In general worked with monolitic and microservice arthitectures.
 
 <p align = 'center'>
- <a href="https://github-readme-stats.vercel.app/api?username=shemich&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=shemich&show_icons=true&count_private=true" /></a>
-<a href="https://github.com/shemich/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shemich&layout=compact" /></a>
+ <a href="https://github-readme-stats.vercel.app/api?username=Shemich&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=Shemich&show_icons=true&count_private=true" /></a>
+<a href="https://github.com/Shemich/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shemich&layout=compact" /></a>
  </p>
 
 <p align='center'>
