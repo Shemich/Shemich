@@ -27,5 +27,5 @@ In general worked with monolitic and microservice arthitectures.
 
 ### My opensource projects
 
-*   [Letov_Bot](https://github.com/Shemich/Letov_Bot) - Telegram bot giving a random poem by Igor Fedorovich "Yegor" Letov  
+*   [Letov_Bot](https://github.com/Shemich/Letov_Bot) - Telegram bot gives poems from an open source Egor Letov's Poems Book 2003 year edition.
 *   [crazy-task-tracker-api](https://github.com/Shemich/crazy-task-tracker-api) - microservies 
