@@ -29,3 +29,4 @@ In general worked with monolitic and microservice arthitectures.
 
 *   [Letov_Bot](https://github.com/Shemich/Letov_Bot) - Telegram bot gives poems from an open source Egor Letov's Poems Book 2003 year edition.
 *   [crazy-task-tracker-api](https://github.com/Shemich/crazy-task-tracker-api) - microservies 
+*   [mario-bros-game](https://github.com/Shemich/mario-bros-game) - Platform game like Super Mario Bros 1 using libGDX
