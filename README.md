@@ -29,3 +29,4 @@ In general worked with monolitic and microservice arthitectures.
 
 *   [Letov_Bot](https://github.com/Shemich/Letov_Bot) - Telegram bot gives poems from an open source Egor Letov's Poems Book 2003 year edition.
 *   [mario-bros-game](https://github.com/Shemich/mario-bros-game) - Platform game like Super Mario Bros 1 using libGDX
+*   [pr-mortar-calculator](https://github.com/Shemich/project-reality-mortar-calculator) - Ballistic Mortar Calculator for Project Reality
