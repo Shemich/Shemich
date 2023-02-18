@@ -20,9 +20,10 @@ In general worked with monolitic and microservice arthitectures.
 *   I am fond of sound engineering, I play the guitar.
 
 ## 🛠 Technical Stack
-*   Java 
+*   Java, Python
 *   PostgreSQL, MongoDB
-*   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring Cloud Contract and so on...
+*   Spring Framework, Spring Boot
+*   Docker, K8s
 *   GitHub/GitLab
 
 ### My opensource projects
