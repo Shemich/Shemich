@@ -21,10 +21,12 @@ In general worked with monolitic and microservice arthitectures.
 
 ## 🛠 Technical Stack
 *   Java, Python
-*   PostgreSQL, MongoDB
+*   PostgreSQL, MongoDB, Apache Druid
 *   Spring Framework, Spring Boot
 *   Docker, K8s
 *   GitHub/GitLab
+*   Grafana
+*   Openshift
 
 ### My opensource projects
 
